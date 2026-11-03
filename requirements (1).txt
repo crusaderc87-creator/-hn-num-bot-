@@ -1,0 +1,11 @@
+beautifulsoup4
+bs4
+requests
+lxml
+pytz
+APScheduler
+pymongo
+nest_asyncio
+python-telegram-bot
+dnspython
+asyncio
